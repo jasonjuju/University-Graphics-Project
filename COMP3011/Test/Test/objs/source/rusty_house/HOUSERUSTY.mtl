@@ -1,0 +1,47 @@
+
+
+newmtl Material
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 40
+map_Kd BRICK.jpg
+newmtl Material1
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 40
+map_Kd roof.jpg
+newmtl Material2
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 40
+map_Kd windows.jpg
+newmtl Material3
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 40
+map_Kd WOOD.jpg
+newmtl Material4
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 40
+map_Kd DOOR.jpg

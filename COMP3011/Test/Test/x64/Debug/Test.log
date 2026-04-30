@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Main.vcxproj, Test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gl3w.c
+  AnimatedCar.cpp
+  light_source.cpp
+  new_camera.cpp
+  Object.cpp
+  mtl_obj_loader.cpp
+  rcCar.cpp
+  road.cpp
+  street.cpp
+  terrain.cpp
+E:\Graphics_Project\University-Graphics-Project\COMP3011\Test\Test\terrain.cpp(136,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  obj_loader.cpp
+  obj_mesh.cpp
+  stbi_holder.cpp
+  Main.cpp
+E:\Graphics_Project\University-Graphics-Project\COMP3011\include\file.h(18,11): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+  texture.cpp
+  Generating Code...
+  LINK : E:\Graphics_Project\University-Graphics-Project\COMP3011\Test\x64\Debug\Assessment2.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Test.vcxproj -> E:\Graphics_Project\University-Graphics-Project\COMP3011\Test\x64\Debug\Assessment2.exe
