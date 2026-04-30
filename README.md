@@ -5,10 +5,18 @@ This is my project for the graphics module at the university of nottingham. It c
 
 
 ## Controls
+
 wasd - Standard movement
+
 ijkl - Remote Control Car Movement
+
 Space - Fly up
+
 Ctrl - Fly down
+
 Click + drag - Change camera Orientation
+
 1 - Change to floating camera
+
 2 - Change to static camera (on RC car)
+
