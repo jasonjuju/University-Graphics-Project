@@ -20,6 +20,10 @@ Click + drag - Change camera Orientation
 
 2 - Change to static camera (on RC car)
 
-![alt text](https://github.com/jasonjuju/University-Graphics-Project/blob/main/ShowcaseImage1.png)
+Esc - Close program
 
-![alt text](https://github.com/jasonjuju/University-Graphics-Project/blob/main/ShowcaseImage2.png)
+![](https://github.com/jasonjuju/University-Graphics-Project/blob/main/ShowcaseImage1.png)
+
+![](https://github.com/jasonjuju/University-Graphics-Project/blob/main/ShowcaseImage2.png)
+
+![](https://github.com/jasonjuju/University-Graphics-Project/blob/main/ShowcaseImage3.png)
